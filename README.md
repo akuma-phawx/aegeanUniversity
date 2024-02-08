@@ -1,4 +1,4 @@
-# Container series of exercises in C from Aegean University
+# Container series of exercises in C from Aegean University 🏫
 
 ---
 
